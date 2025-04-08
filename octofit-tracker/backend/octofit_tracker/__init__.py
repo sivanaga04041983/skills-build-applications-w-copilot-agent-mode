@@ -1,1 +1,0 @@
-print("octofit_tracker app is being loaded")
